@@ -1,0 +1,19 @@
+{
+  "name": "TCC-Design-Patterns",
+  "version": "0.0.1",
+  "description": "Site feito para acompanhar a evolução do TCC sobre Design Patterns - Francisco Eugênio Wernke",
+  "main": "index.js",
+  "authors": {
+    "name": "Francisco Eugênio Wernke",
+    "email": "franwernke@usp.br"
+  },
+  "repository": "https://github.com/Franwernke/TCC-Design-Patterns/TCC-Design-Patterns",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
