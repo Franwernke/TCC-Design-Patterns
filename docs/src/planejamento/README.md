@@ -7,8 +7,7 @@ pageClass: planejamento
 |                         | Mar | Abr | Mai | Jun | Jul | Ago | Set | Out | Nov | Dez |
 | ----------------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Planejamento            | x   |     |     |     |     |     |     |     |     |     |
-| Listagem dos padrões    | x   | x   | x   |     |     |     |     |     |     |     |
-| Leitura da bibliografia |     | x   |     |     |     |     |     |     |     |     |
+| Seleção dos padrões     | x   | x   | x   |     |     |     |     |     |     |     |
 | Padrão 1                |     | x   | x   |     |     |     |     |     |     |     |
 | Padrão 2 e revisão do 1 |     |     | x   | x   |     |     |     |     |     |     |
 | Entrega parcial         |     |     |     | x   |     |     |     |     |     |     |
