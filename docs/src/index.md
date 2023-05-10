@@ -27,13 +27,9 @@ A partir destas soluções, extraímos vários aprendizados e conseguimos discer
 Essas soluções ganharam a alcunha de Padrões Arquiteturais (_Design Patterns_). São padrões pois aparecem diversas vezes em várias bases
 de código e são arquiteturais pois organizam o código para um determinado propósito.
 
-CONSERTAR ISSO NÃO É VERDADE: Os componentes que controlam o funcionamento interno do negócio, denominados _Back-ends_, foram os primeiros a serem estudados
-a partir do viés dos padrões arquiteturais. Contudo, existem também diversos padrões na construção de componentes de interface,
-denominados _Front-ends_.
-
 ## Proposta
 
-Este projeto pretende fornecer um ferramental (ou _toolbox_) composto de padrões de projetos para a contrução de interfaces. Discutiremos
+Este projeto pretende fornecer um ferramental (ou _toolbox_) composto de padrões de projetos para a construção de interfaces. Discutiremos
 padrões de organização de código que são comumente usados para o controle, organização e contextualização de informações e visualizações interativas. Há um grande conjunto de padrões que dizem respeito ao leiaute da interface, porém vamos tratar somente da organização do código.
 
 O meio de propagação deste material será um curso, composto por aulas direcionadas ao público já letrado em Ciências da Computação e

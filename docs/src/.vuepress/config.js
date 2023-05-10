@@ -46,6 +46,10 @@ module.exports = {
         link: "/planejamento/",
       },
       {
+        text: "Metodologia",
+        link: "/metodologia/",
+      },
+      {
         text: "Monografia em pdf",
         link: "https://bcc.ime.usp.br/tccs/2023/franwernke",
       },
