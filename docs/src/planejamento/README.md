@@ -4,16 +4,12 @@ pageClass: planejamento
 
 # Planejamento
 
-|                         | Mar | Abr | Mai | Jun | Jul | Ago | Set | Out | Nov | Dez |
-| ----------------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Planejamento            | x   |     |     |     |     |     |     |     |     |     |
-| Seleção dos padrões     | x   | x   | x   |     |     |     |     |     |     |     |
-| Padrão 1                |     | x   | x   |     |     |     |     |     |     |     |
-| Padrão 2 e revisão do 1 |     |     | x   | x   |     |     |     |     |     |     |
-| Entrega parcial         |     |     |     | x   |     |     |     |     |     |     |
-| Padrões 3 e 4           |     |     |     | x   | x   |     |     |     |     |     |
-| Padrões 5 e 6           |     |     |     |     | x   | x   |     |     |     |     |
-| Padrões 6 e 7           |     |     |     |     |     | x   | x   |     |     |     |
-| Padrões 8, 9 e 10       |     |     |     |     |     |     | x   | x   |     |     |
-| Revisão e escrita       |     |     |     |     |     |     |     | x   | x   |     |
-| Entrega e revisão       |     |     |     |     |     |     |     |     |     | x   |
+|                                   | Mar | Abr | Mai | Jun | Jul | Ago | Set | Out | Nov | Dez |
+| --------------------------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Planejamento                      | x   |     |     |     |     |     |     |     |     |     |
+| Revisão da literatura             |     | x   | x   | x   |     |     |     |     |     |     |
+| Entrevistas com profissionais     |     |     |     | x   | x   |     |     |     |     |     |
+| Elaboração do piloto de um padrão |     |     |     |     | x   | x   |     |     |     |     |
+| Revisão e ajustes do piloto       |     |     |     |     |     | x   | x   |     |     |     |
+| Elaboração dos demais padrões     |     |     |     |     |     |     | x   | x   | x   |     |
+| Escrita da monografia final       |     |     |     |     |     |     |     |     | x   | x   |

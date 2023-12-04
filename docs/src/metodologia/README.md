@@ -10,8 +10,6 @@ Em primeiro lugar, listou-se diversos padrões arquiteturais que foram encontrad
 - Frequência de uso em projetos;
 - Facilidade de manutenção;
 
-Foram feitas 3 pesquisas de campo, destrinchadas a seguir.
-
 ## Entrevista qualitativa com profissionais experientes em Front-end
 
 ### Objetivo
@@ -20,13 +18,11 @@ Esta entrevista visava coletar ideias de profissionais que já tinham vasto cont
 
 ### Método
 
-Foram convidadas |X| pessoas para 45 minutos de entrevista. Nesta entrevista, apresentamos o conceito de padrões arquiteturais adotado por esta pesquisa. Depois, apresentou-se a lista de padrões arquiteturais pré-selecionados, com |Y| padrões, somente pelo nome e perguntou-se quais deles o profissional já tinha experiências com. Daqueles que ele já teve experiência, foram perguntas as seguintes perguntas:
+Primeiro, vamos dar um pequeno contexto do conceito de Patterns usado na pesquisa. Nas linhas de:
 
-- "Com qual frequência você usa este padrão em projetos?" ("How often do you implement this pattern?")
-- "Este padrão facilita a manutenção de um componente de software? De que maneira?" ("This pattern increases the manutenability of a software's component? How so?")
-- "Pensando no impacto deste padrão na arquitetura, em qual categoria você colocaria esse padrão? Padrão de código, padrão de componente ou padrão de serviço?" ("With the impact of this pattern in the architecture in mind, in which category would you fit this component? Code pattern, component pattern or service pattern?")
+- Nesta pesquisa, conceito de Patterns usado é o mesmo do livro Pattern Oriented Software Architecture (POSA) - Buschman, Frank et al. Um Pattern consiste de uma tríade de contexto, problema e solução e suas relações. Chamamos os requisitos retirados do contexto e do problema de "Forças" e a solução tem o papel de equilibrar estas forças, produzindo um software funcional. Todo Pattern possui um ou mais nomes que podem se referir a ele. O Pattern descreve tanto o processo passo-a-passo de criação da solução, a solução em si e quando devemos usá-la.
 
-Por fim, pergutou-se se existiam padrões, fora os que foram citados, que mereciam a atenção desta pesquisa. Estes padrões então foram incluídos na lista.
+-
 
 ### Resultado
 

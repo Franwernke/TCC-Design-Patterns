@@ -10,6 +10,10 @@ title: "Francisco E. Wernke"
 - **Orientador**: Fabio Kon
 - **Coorientadores**: João Daniel Francisco e Renato Cordeiro
 
+## Monografia
+
+<a href="./Tese.pdf" download>Baixar monografia</a>
+
 ## Introdução
 
 Este site visa documentar a criação do Trabalho de Conclusão de Curso sobre Padrões Arquiteturais para interfaces (_Front-ends_).
