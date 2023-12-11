@@ -16,6 +16,6 @@ git add -A
 git commit -m 'deploy'
 
 # deploying to https://Franwernke.github.io/TCC-Design-Patterns
-git push -f git@github.com-Franwernke:/Franwernke/TCC-Design-Patterns.git master:gh-pages
+git push -f git@github.com-Franwernke:/Franwernke/TCC-Design-Patterns.git main:gh-pages
 
 cd -
