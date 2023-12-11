@@ -2,7 +2,7 @@
 title: "Francisco E. Wernke"
 ---
 
-# Padrões Arquiteturais para Front-end
+# Padrões em Front-ends
 
 **Bacherelado em Ciências da Computação - Instituto de Matemática e estatística da Universidade de São Paulo**
 
