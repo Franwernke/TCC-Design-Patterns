@@ -49,6 +49,10 @@ module.exports = {
         text: "Metodologia",
         link: "/metodologia/",
       },
+      {
+        text: "Documentações",
+        link: "/docs/",
+      },
     ],
   },
 
