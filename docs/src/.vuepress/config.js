@@ -46,10 +46,6 @@ module.exports = {
         link: "/planejamento/",
       },
       {
-        text: "Metodologia",
-        link: "/metodologia/",
-      },
-      {
         text: "Documentações",
         link: "/docs/",
       },

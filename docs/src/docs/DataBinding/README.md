@@ -28,4 +28,12 @@ Diferentemente de frameworks como o Angular em que o data binding deve ser decla
 
 ### Diagrama
 
+<img src="/DataBinding_diagram.png" width="664px">
+
 ### Implementação
+
+&nbsp;
+&nbsp;
+&nbsp;
+
+<img src="/DataBinding_code.png" width="664px">
