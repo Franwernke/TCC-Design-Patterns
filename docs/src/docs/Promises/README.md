@@ -24,10 +24,12 @@ A expressão linguística Promise que é implementada pelo JS para permitir a as
 
 ### Diagrama
 
-<img src="/Promises_diagram.svg" width="700px" >
+<img src="./Promises_diagram.svg" width="700px" >
+
+**Fonte**: https://subhra.hashnode.dev/all-about-javascript-event-loop
 
 ### Implementação
 
 &nbsp;
 
-<img src="/Promises_code.png">
+<img src="./Promises_code.png">
